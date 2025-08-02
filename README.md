@@ -9,6 +9,7 @@
 ## 📋 Wymagania
 - Node.js v16+
 - Discord.js v14
+- npm install discord.js dotenv
 - Uprawnienia bota:
   - `View Channel`
   - `Read Message History`
